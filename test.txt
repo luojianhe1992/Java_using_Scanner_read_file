@@ -1,0 +1,5 @@
+This is the first line of a test file.
+This is the second line.
+All right, you got it, it is the third line.
+That's right, it is the fourth line.
+Cool, man, that's what I want to talk to you.
